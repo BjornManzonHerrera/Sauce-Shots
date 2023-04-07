@@ -11,16 +11,14 @@ body {
     display: block;
     margin: 0;
     background-color: #ba181b;
-    overflow: hidden;
+
 }
 .main {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
-    padding: 5rem;
-    box-sizing: border-box;
-    text-align: center;
+
 
 }
 
@@ -31,8 +29,7 @@ body {
     background-color: red;
     background-blend-mode: multiply;
 
-    height: 60rem;
-    margin: 0;
+
 }
 .main__content > h2{ 
     font-size: 4rem;
